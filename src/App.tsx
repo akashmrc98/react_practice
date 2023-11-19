@@ -1,6 +1,7 @@
 import { ChakraProvider } from "@chakra-ui/react";
 import Home from "./pages/Home";
 
+// changing commit name
 function App() {
   return (
     <ChakraProvider>
@@ -8,5 +9,4 @@ function App() {
     </ChakraProvider>
   );
 }
-
 export default App;
